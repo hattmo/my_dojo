@@ -1,7 +1,7 @@
 id: mydojo
 name: Hattmo's Dojo
 type: hidden
-password: secret
+password: bettersecret
 award: 
   emoji: 😀
 modules:
