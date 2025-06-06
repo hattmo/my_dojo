@@ -1,8 +1,9 @@
 id: my_dojo
 name: Hattmo's Dojo
-type: example
-award: 😀
+type: hidden
+password: secret
+award: 
+  emoji: 😀
 modules:
   - id: python
-  - id: c
 
