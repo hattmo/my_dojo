@@ -1,7 +1,7 @@
 id: my_dojo
 name: Hattmo's Dojo
 type: example
-award: :)
+award: 😀
 modules:
   - id: python
   - id: c
