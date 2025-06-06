@@ -1,0 +1,8 @@
+id: my_dojo
+name: Hattmo's Dojo
+type: example
+award: :)
+modules:
+  - id: python
+  - id: c
+

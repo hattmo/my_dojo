@@ -1,0 +1,4 @@
+name: Python
+challenges:
+  - id: loops
+    name: Learning Loops
